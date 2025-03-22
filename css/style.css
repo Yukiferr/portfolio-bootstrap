@@ -21,3 +21,8 @@ body {
     height: auto;
     width: 300px;
   }
+
+  .info-footer{
+    display: flex;
+    
+  }
